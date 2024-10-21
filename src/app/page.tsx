@@ -8,6 +8,15 @@ export default function Home() {
       <p>
         Our portfolio ranges from MVPs to full-scale enterprise software, leveraging our vast technical expertise in website and mobile app development, and browser extension development services. At EnactOn, we’re committed to bringing your vision to life with innovation and adherence to our core values.
       </p>
+
+      <footer>
+          <div>
+            <h1>Contact Us</h1>
+          </div>
+          <div>
+            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Et iste porro, animi numquam expedita illo provident magnam suscipit sunt laboriosam perferendis, distinctio a eligendi ex unde! Qui explicabo facere illo.
+          </div>
+      </footer>
     </div>
   );
 }
